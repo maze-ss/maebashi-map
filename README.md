@@ -4,4 +4,4 @@ https://maze-ss.github.io/maebashi-map/
 * ズームインで地番図が表示
 * ズームアウトで町が表示（町をクリック選択で統計が見れます）
 
-使用データの詳細はpege内infomationをご覧ください
+使用データの詳細はpage内infomationをご覧ください
